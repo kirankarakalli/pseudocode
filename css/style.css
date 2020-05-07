@@ -1,0 +1,28 @@
+/************************top selectors**************/
+
+
+h1{
+
+  background-color: red;
+}
+
+img:hover{
+
+background-color: gold;
+
+}
+
+
+
+/************************class selectors*****************/
+.broccoli{
+
+
+  background-color: red;
+}
+
+/*****************************id************************/
+
+#heading{
+  color: blue;
+}
